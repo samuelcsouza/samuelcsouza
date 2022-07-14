@@ -44,7 +44,7 @@ Enjoy!
   <a href="https://www.linkedin.com/in/samuel-souza-9b49161a0/">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   <a href="mailto:samuel_dacruz@hotmail.com">
-  <img align="center" height="5%" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
+  <img align="center" height="5%" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png"/>
   <!-- <a href="https://medium.com/@samuelcsouza">
   <img align="center" height="5%" width="5%" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png"> -->
 </div>
