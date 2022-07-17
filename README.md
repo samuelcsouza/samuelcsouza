@@ -5,7 +5,7 @@ Feel free to open an Pull Request or Fork any repository.
 
 Enjoy!
 
-## A little bit About Me
+## About Me
 
 <br>
 <div align="center" style="display: inline_block">
