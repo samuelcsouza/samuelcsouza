@@ -23,7 +23,6 @@ Enjoy!
 - :computer: Computer Engineer by _Inatel_
 - :mortar_board: Data Science Student by _UNIVESP_
 - :video_game: RPG lover
-- :dart: CS:GO Player
 - :ring: Married
 - :scream: I don't drink coffee
 
