@@ -31,11 +31,11 @@ Enjoy!
 
 ## You can find me here
 
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/samuel-souza-9b49161a0/">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  <a href="mailto:samuel_dacruz@hotmail.com">
-  <img align="center" height="5%" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/3840px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png"/>
+  <!-- <a href="mailto:samuel.cruz.souza@gmail.com">
+  <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png"/> -->
   <!-- <a href="https://medium.com/@samuelcsouza">
   <img align="center" height="5%" width="5%" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png"> -->
 </div>
