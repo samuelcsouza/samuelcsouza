@@ -46,6 +46,6 @@ Enjoy!
 
 <div align="center" style="display: inline_block">
   <h2>You can find me here</h2>
-  <a href="https://www.linkedin.com/in/samuel-souza-9b49161a0/">
+  <a href="https://www.linkedin.com/in/samuelczsouza/">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </div>
