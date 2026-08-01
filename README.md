@@ -9,7 +9,7 @@ Enjoy!
 <h2 align="center">About Me</h2>
 
 - :computer: Computer Engineer by _Inatel_
-- :mortar_board: Data Science Student by _UNIVESP_
+- :mortar_board: Data Scientist by _UNIVESP_
 - :video_game: Lover of classic games
 - :ring: Married
 - :scream: I don't drink coffee
