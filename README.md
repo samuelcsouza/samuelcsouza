@@ -37,6 +37,7 @@ Enjoy!
 
 <div align="center" style="display: inline_block">
   <h3>Main Tools</h3>
+  <img align="center" alt="Claude Code" height="30" width="40" src="https://devicons.io/devicons/icons/claude-code.svg">
   <img align="center" alt="Cursor" height="30" width="40" src="./assets/CUBE_25D.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
